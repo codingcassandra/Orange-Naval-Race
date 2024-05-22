@@ -1,0 +1,1 @@
+The objective of this project is to construct a water resistant, floating, and moving boat that can travel a minimum distance of 10 yards. While designing and building the boat we must remain under the budget of $85. The main constraints for this project is that the boat must not exceed  1m x 1m x 1m and cannot be self-guided or self-propelled. 
